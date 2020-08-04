@@ -1,7 +1,7 @@
 
 <h1>Algoritimo Nao Supervisionado</h1>
 
-#### Este projeto é um resultado de um curso na alura sobre algoritimos não supervisionados.
+#### Este projeto é o resultado de um curso na alura sobre algoritimos não supervisionados.
 <h4 align='justify'> Durante o processo de aprendizado foi de fácil compreensão do assunto, pelo fato de eu já estar familiarizado com machine learning. Entender o conceito de como é classificado ou as sintaxes utilizadas foi simples, porém não foi mostrado como montar o algoritimo do zero, sendo que foi utilizado pacotes pronto a partir do SKlearn e scipy, entretanto foi uma ótima ajuda para melhorar alguns conceitos base sobre o assunto.</h4>
 
 ### Tópicos 
